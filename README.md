@@ -1,7 +1,7 @@
 # Good README Generator
 
 ## Description
-Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command node index.js.
+Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command node index.js 
 
 ## Table of Content 
 
@@ -13,17 +13,16 @@ Create a command-line application that dynamically generates a README.md from a 
 * [Contributing](#Contributing)
 
 ## Installation
-* npm init  
-* npm i inquirer
+1.npm init 2.npm inquirer
 
 ## License
-    This project is licensed under the MIT license.
+    This project is licensed under the MIT.
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Usage
 
-This application is used for User is prompt to answer questions. once the questionnaire is completed, a readme file will be generated.
+This application is used for User is prompt to answer questions. once the questionnaire is completed, a readme file will be generated
 
 ## Contributing
 
